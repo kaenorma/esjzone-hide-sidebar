@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name                esj隐藏侧边栏
+// @name                esjzone hide sidebar
 // @name:zh-TW          esj隱藏側邊欄
 // @name:zh-CN          esj隐藏侧边栏
-// @namespace    maybeitsme
+// @namespace    https://github.com/kaenorma/esjzone-hide-sidebar
 // @version      1.0
 // @description  esjzone的正文查看时，侧边栏无法收起，这个脚本将其直接隐藏；方法是隐藏侧边栏col，然后使正文col占满宽度
 // @match https://www.esjzone.one/forum/*
