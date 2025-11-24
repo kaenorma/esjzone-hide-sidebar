@@ -8,6 +8,7 @@
 // @match https://www.esjzone.one/forum/*
 // @match https://www.esjzone.*/forum/*
 // @grant        GM_addStyle
+// @license             MIT
 // ==/UserScript==
 
 (function() {
